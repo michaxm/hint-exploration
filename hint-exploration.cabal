@@ -19,4 +19,5 @@ executable hint-exploration
   build-depends:       base
                      , hint
                      , bytestring
+                     , async
   default-language:    Haskell2010
